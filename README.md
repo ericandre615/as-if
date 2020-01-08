@@ -3,7 +3,7 @@
 
 `asIf` will check your logic and call your function returning it's value if the condition is true
 
-**note**: pairs well with [asIf](https://github.com/ericandre615/as-for)
+**note**: pairs well with [asFor](https://github.com/ericandre615/as-for)
 
 ### Examples
 
